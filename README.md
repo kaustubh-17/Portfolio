@@ -2,7 +2,7 @@
 
 Welcome to my **Portfolio Website**, showcasing my professional journey and projects in **Angular**, **.NET development**, and **PL/SQL development**. This website is designed to provide insights into my work experience, skills, projects and resume. Explore and feel free to reach out through the contact section!
 
-**Website Link**: [Kaustubh Srivastava/](https://kaustubhsrv.tiiny.io/)
+**Website Link**: [kaustubhSrv.com/](https://kaustubhsrv.tiiny.io/)
 
 ---
 
